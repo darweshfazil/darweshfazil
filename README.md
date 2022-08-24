@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @darweshfazil
+- 👀 I’m interested in DataScience, Machine learning and Backend Development
+- 🌱 I’m currently learning Spring Framework
+- 💞️ I’m looking to collaborate on any Repos that's challenging enough to make me curious!
+- 📫 How to reach me, Drop a mail @ darweshfazilaad@gmail.com also ping me on LinkedIn @ linkedin.com/in/darwesh-fazil/
